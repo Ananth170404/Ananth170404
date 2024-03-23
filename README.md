@@ -1,4 +1,4 @@
-# Hello World! 👋 I'm Ananth Shyam - Shaping Digital Visions!
+# Hello World! 👋 I'm Ananth Shyam - Shaping Technologicial Visions!
 
 Welcome to my GitHub profile! I'm Ananth Shyam, an aspiring engineering student at Shiv Nadar University.
 
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm Ananth Shyam, an aspiring engineering student 
 ## 📫 Contact Me
 
 - 📧 s.ananth1704@gmail.com
-- 💬 https://www.linkedin.com/in/ananth-shyam-s-69b083259/
+- 💬 www.linkedin.com/in/ananth-shyam-s-8978b52b8
 - 🐦 https://twitter.com/1704Ananth
 
 ## 🎉 Thanks for visiting!
