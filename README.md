@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm Ananth Shyam, an aspiring engineering student 
 ## 🚀 About Me
 
 - 🎓 University Student at Shiv Nadar University
-- 💼 Yr-III Artificial Intelligence and Data Science Student
+- 💼 Yr-IV Artificial Intelligence and Data Science Student
 - 🌱 I’m currently learning and exploring my interests in Machine Learning, Deep Learning and Natural Language Processing
 
 ## 🔧 Technologies & Tools
