@@ -1,12 +1,12 @@
 # Hello World! 👋 I'm Ananth Shyam - Shaping Technologicial Visions!
 
-Welcome to my GitHub profile! I'm Ananth Shyam, an aspiring engineering student at Shiv Nadar University.
+Welcome to my GitHub profile! I'm Ananth Shyam, an aspiring engineering student at IIIT-Bangalore.
 
 ## 🚀 About Me
 
-- 🎓 University Student at Shiv Nadar University
-- 💼 Yr-IV Artificial Intelligence and Data Science Student
-- 🌱 I’m currently learning and exploring my interests in Machine Learning, Deep Learning along with optimized Neural Network implementations
+- 🎓 Post Graduate University Student at IIIT-Bangalore
+- 💼 = Artificial Intelligence and Data Science Student
+- 🌱 I’m currently building projects on Machine Learning, Deep Learning along with optimized Neural Network implementations
 
 ## 🔧 Technologies & Tools
 
@@ -16,8 +16,6 @@ Welcome to my GitHub profile! I'm Ananth Shyam, an aspiring engineering student 
 - 🗄️ SQL
 - 🤖 LLMs and Generative AI tools
 
-## 🌟 Featured Projects
-- 📚 Araycci - The Research Paper AI Assistant
 
 ## 📫 Contact Me
 
