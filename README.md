@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm Ananth Shyam, an aspiring engineering student 
 ## 🚀 About Me
 
 - 🎓 Post Graduate University Student at IIIT-Bangalore
-- 💼 = Artificial Intelligence and Data Science Student
+- 💼 Artificial Intelligence and Data Science Student
 - 🌱 I’m currently building projects on Machine Learning, Deep Learning along with optimized Neural Network implementations
 
 ## 🔧 Technologies & Tools
