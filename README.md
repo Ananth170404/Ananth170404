@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://ananth-dev.tech">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=640&lines=Distilling+ensembles+into+tiny+students;Quantizing+to+INT8+without+losing+mAP;Aligning+speech+for+22+Indic+languages;Retrieving+from+2.4M+arXiv+papers" alt="What I work on" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+agentic+AI+systems;Compressing+neural+networks+for+the+edge;Training+models+that+survive+adversarial+attacks;Shipping+RAG+assistants+that+actually+retrieve" alt="What I do" />
 </a>
 
 # 🧠 `ananth-shyam-v2026`
@@ -17,24 +17,15 @@
 
 ```yaml
 model_id: Ananth170404/ananth-shyam-v2026
-pipeline_tag: research-to-production
-tags: [deep-learning, model-compression, quantization, adversarial-robustness, rag, speech]
-base_model: B.Tech AI & DS, Shiv Nadar University Chennai (CGPA 9.019)
+developed_by: Ananth Shyam
+model_type: AIML Engineer
+specialisation: neural networks that are accurate, robust and efficient
+pipeline_tag: ideas-to-inference
+tags: [Deep Learning, Machine Learning, Agentic AI, RAG, Model Compression]
+base_model: B.Tech AI & DS, Shiv Nadar University Chennai (CGPA 9.019 / 10)
 current_checkpoint: M.Tech AI & DS, IIIT Bangalore (2026 – 2028)
 license: open-to-collaborate
 ```
-
----
-
-## 📋 Model Details
-
-| | |
-|---|---|
-| **Developed by** | Ananth Shyam |
-| **Model type** | Deep learning researcher + ML engineer |
-| **Specialisation** | Neural networks that are accurate, robust *and* efficient |
-| **Current checkpoint** | M.Tech, Artificial Intelligence & Data Science, IIIT Bangalore |
-| **Fine-tuned from** | B.Tech, AI & Data Science, Shiv Nadar University Chennai (CGPA 9.019 / 10) |
 
 ---
 
@@ -47,8 +38,6 @@ Strongest on:
 - **Robustness**: adversarial training, PGD evaluation
 - **AI systems**: LLM and hybrid-RAG assistants, agentic workflows
 - **Forecasting & anomaly detection**: stacked ensembles, time series, streaming pipelines
-
-**Out-of-scope use:** fixing your printer.
 
 ---
 
@@ -111,14 +100,6 @@ Strongest on:
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
-
----
-
-## ⚠️ Limitations & Biases
-
-- Strong prior towards quantizing everything to INT8.
-- Inference latency rises noticeably before morning coffee.
-- Off-distribution skills include university football and two state-level abacus podiums.
 
 ---
 
