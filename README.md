@@ -19,7 +19,6 @@
 model_id: Ananth170404/ananth-shyam-v2026
 developed_by: Ananth Shyam
 model_type: AIML Engineer
-specialisation: neural networks that are accurate, robust and efficient
 pipeline_tag: ideas-to-inference
 tags: [Deep Learning, Machine Learning, Agentic AI, RAG, Model Compression]
 base_model: B.Tech AI & DS, Shiv Nadar University Chennai (CGPA 9.019 / 10)
@@ -37,7 +36,7 @@ Strongest on:
 - **Model compression**: knowledge distillation, mixed-precision quantization, edge deployment
 - **Robustness**: adversarial training, PGD evaluation
 - **AI systems**: LLM and hybrid-RAG assistants, agentic workflows
-- **Forecasting & anomaly detection**: stacked ensembles, time series, streaming pipelines
+- **ML / DL**: neural networks, time-series forecasting, anomaly detection, stacked ensembles
 
 ---
 
@@ -54,7 +53,6 @@ Strongest on:
 ## 📊 Evaluation Results
 
 <p>
-<a href="#"><img src="https://img.shields.io/badge/GATE%20DA%202026-AIR%20235-F59E0B?style=flat-square" alt="GATE DA 2026 AIR 235" /></a>
 <a href="#"><img src="https://img.shields.io/badge/QUARK%20model%20size-85.5%25%20smaller-22D3EE?style=flat-square" alt="QUARK 85.5% smaller" /></a>
 <a href="#"><img src="https://img.shields.io/badge/QUARK%20energy-37.15%25%20lower-10B981?style=flat-square" alt="QUARK 37.15% lower energy" /></a>
 <a href="#"><img src="https://img.shields.io/badge/PGD%20accuracy-%2B46.79%25-8B5CF6?style=flat-square" alt="PGD accuracy +46.79%" /></a>
@@ -66,8 +64,6 @@ Strongest on:
 | **QUARK** on CIFAR-10/100 & ImageNet | Up to **85.5%** smaller, **37.15%** less energy, **+46.79%** PGD accuracy over baselines |
 | **INT8 rice classifier** (MobileNetV3-Small student) | **0.31 MB**, **98.07%** accuracy, **3.95 ms** / image on CPU |
 | **INT8 YOLOv5 Nano** (8-class rice quality) | **2.7×** smaller, mAP@50 held at **0.885** after quantization |
-| **GATE Data Science & AI 2026** | All India Rank **235** |
-
 ---
 
 ## 🚀 Featured Checkpoints
@@ -96,6 +92,7 @@ Strongest on:
 <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark" />
 <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square" alt="Azure" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
